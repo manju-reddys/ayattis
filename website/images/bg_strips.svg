@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="615px" viewBox="0 0 1024 615" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Desktop</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="92.3299372%" y1="68.0351734%" x2="19.1178165%" y2="31.4149957%" id="linearGradient-1">
+            <stop stop-color="#EEF1F6" offset="0%"></stop>
+            <stop stop-color="#FCFDFD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="4.21046037%" y1="34.058739%" x2="91.4202978%" y2="54.4448624%" id="linearGradient-2">
+            <stop stop-color="#FF9A9E" offset="0%"></stop>
+            <stop stop-color="#FAD0C4" offset="99.3819298%"></stop>
+            <stop stop-color="#EC74E7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1024" height="615"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="1024" height="615"></rect>
+        <path d="M1038.54681,-182.4375 L174.08391,-182.4375 L556.877709,361.304953 C571.473916,382.038249 592.702029,395.618817 615.83219,400.95539 C638.962352,406.291963 663.994562,403.38454 686.198962,391.141852 L1180.41429,118.649723 L1038.54681,-182.4375 Z" id="bg-shape" stroke="#C5C5C5" stroke-width="1.125" fill="url(#linearGradient-2)"></path>
+    </g>
+</svg>
