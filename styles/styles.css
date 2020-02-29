@@ -2,12 +2,34 @@ html,
 body {
     height: 100vh;
     width: 100vw;
-    /* background-image: url(../images/mesh_bg.jpg); */
+}
+.site-bg {
+    background-image: url(https://assets.website-files.com/5bfd1275cc56e15ce750b18e/5c289afb9a157592ff893a9d_65.%20Prim.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
     background-position: center;
+    background-repeat: no-repeat;
+    opacity: .4;
+}
+.card-title {
+    background-clip: text;
+    -webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+    background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
+}
+.title-text {
+    color: #3e6684;
 }
 
-.thermostat {    
-    width: 100%;    
+.gd-underline {
+    background-clip: text;
+    -webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+    background-image: linear-gradient( 135deg, #c75800 10%, #672e00 100%);
+    border-bottom: 2px solid #005784;
+}
+figure {
+    box-shadow: 0px 3px 6px 0px #d8d8d8;
+    border-radius: 34px;
+    opacity: .6;
+    width: 100%;
 }
